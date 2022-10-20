@@ -1,4 +1,4 @@
-# Lanscape-Creation-with-assets
+# Landscape-Creation-with-assets
 
 #Aim
 
